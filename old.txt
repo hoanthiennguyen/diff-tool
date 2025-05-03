@@ -1,0 +1,6 @@
+begining
+this is a test
+the second line is different
+the third line is different
+the fourth line is the same
+six is same

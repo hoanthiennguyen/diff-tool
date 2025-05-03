@@ -1,0 +1,5 @@
+this is a test
+the second line
+the fourth line is the same
+six is same
+final
